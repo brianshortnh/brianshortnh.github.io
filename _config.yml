@@ -10,6 +10,9 @@ github_username: brianshortnh
 # Theme skin
 minimal_mistakes_skin: "dark"
 
+# Includes
+include: ["_pages"]
+
 # Build settings
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes"
