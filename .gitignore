@@ -6,3 +6,7 @@ _site
 # Ignore Bundler files
 vendor
 .bundle
+
+# Ignore Vim files
+*.swp
+*.orig
