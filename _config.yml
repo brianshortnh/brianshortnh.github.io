@@ -1,12 +1,21 @@
 # Site config
+locale: "en-US"
 title: Code with Brian Short
-email: brian@codeshort.io
 description: >- # this means to ignore newlines until "baseurl:"
   Thoughts and happenings in my corner of the world
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://codeshort.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: brianshortnh
+baseurl: ""
+url: "https://www.codeshort.io"
 paginate: 5
+
+# Author profile
+author:
+  name: "Brian Short"
+  avatar: "assets/images/me.jpg"
+  bio: "I'm a software developer who likes to write maintainable code. I appreciate good documentation and transparent communication."
+  email: brian@codeshort.io
+  uri: "https://www.codeshort.io"
+  github: brianshortnh
+  linkedin: brianshortnh
 
 # Theme skin
 minimal_mistakes_skin: "dark"
