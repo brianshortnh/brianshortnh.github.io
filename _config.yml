@@ -11,7 +11,8 @@ paginate: 5
 author:
   name: "Brian Short"
   avatar: "assets/images/me.jpg"
-  bio: "I'm a software developer who likes to write maintainable code. I appreciate good documentation and transparent communication."
+  bio: "I'm a software developer who likes to write maintainable code.
+  I love good documentation."
   email: brian@codeshort.io
   uri: "https://www.codeshort.io"
   github: brianshortnh
